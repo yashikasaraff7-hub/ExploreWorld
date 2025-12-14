@@ -1,0 +1,5 @@
+{
+  "name": "ExploreWorld",
+  "description": "A smart travel assistant that generates personalized travel guides, itineraries, and real-time tips using Gemini's grounding capabilities.",
+  "requestFramePermissions": []
+}
